@@ -151,3 +151,4 @@ C:\Users\skyku\source\repos\BornOtomasyon\Backend\BornOtomasyon.API\obj\Debug\ne
 C:\Users\skyku\source\repos\BornOtomasyon\Backend\BornOtomasyon.API\obj\Debug\net8.0\BornOtomasyon.API.pdb
 C:\Users\skyku\source\repos\BornOtomasyon\Backend\BornOtomasyon.API\obj\Debug\net8.0\BornOtomasyon.API.genruntimeconfig.cache
 C:\Users\skyku\source\repos\BornOtomasyon\Backend\BornOtomasyon.API\obj\Debug\net8.0\ref\BornOtomasyon.API.dll
+C:\Users\skyku\source\repos\BornOtomasyon\Backend\BornOtomasyon.API\obj\Debug\net8.0\BornOtomasyon.API.sourcelink.json

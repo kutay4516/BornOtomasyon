@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\BornOtomasyon.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\BornOtomasyon.API\\BornOtomasyon.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -29,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\BornOtomasyon.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "register.component.ts",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts",
               "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\register\\register.component.ts",
@@ -59,11 +83,12 @@
               "ViewState": "AgIAAIMAAAAAAAAAAAAowKwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-08-10T22:38:24.778Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "email-verification.component.ts",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts",
               "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\email-verification\\email-verification.component.ts",
@@ -72,11 +97,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-08-11T08:42:21.536Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Services\\IEmailService.cs",
@@ -89,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Services\\EmailService.cs",
@@ -102,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Services\\IAuthService.cs",
@@ -115,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Services\\AuthService.cs",
@@ -128,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Models\\ApplicationUser.cs",
@@ -141,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\Controllers\\AuthController.cs",
@@ -153,12 +179,90 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.models.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\models\\auth.models.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "auth.interceptor.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\interceptors\\auth.interceptor.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.guard.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\guards\\auth.guard.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\login\\login.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "forgot-password.component.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\forgot-password\\forgot-password.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeDocumentMoniker": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ToolTip": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "RelativeToolTip": "Frontend\\born-otomasyon-frontend\\src\\app\\components\\dashboard\\dashboard.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-13T12:36:33.792Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "BornOtomasyon.API.csproj",
               "DocumentMoniker": "C:\\Users\\skyku\\source\\repos\\BornOtomasyon\\Backend\\BornOtomasyon.API\\BornOtomasyon.API.csproj",
               "RelativeDocumentMoniker": "Backend\\BornOtomasyon.API\\BornOtomasyon.API.csproj",
