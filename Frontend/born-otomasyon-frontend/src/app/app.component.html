@@ -1,0 +1,34 @@
+<div class="app-container">
+  <mat-toolbar color="primary">
+    <span>{{ title }}</span>
+    <span class="spacer"></span>
+
+    <!-- Links for authenticated users -->
+    <ng-container *ngIf="authService.isAuthenticated()">
+      <button mat-button [routerLink]="['/dashboard']">
+        <mat-icon>dashboard</mat-icon>
+        Dashboard
+      </button>
+      <button mat-button (click)="authService.logout()">
+        <mat-icon>logout</mat-icon>
+        Logout
+      </button>
+    </ng-container>
+
+    <!-- Links for non-authenticated users -->
+    <ng-container *ngIf="!authService.isAuthenticated()">
+      <button mat-button [routerLink]="['/login']">
+        <mat-icon>login</mat-icon>
+        Login
+      </button>
+      <button mat-button [routerLink]="['/register']">
+        <mat-icon>person_add</mat-icon>
+        Register
+      </button>
+    </ng-container>
+  </mat-toolbar>
+
+  <div class="content">
+    <router-outlet></router-outlet>
+  </div>
+</div>
