@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BornOtomasyon.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+008364e289e1758d634c80889cee5601fb9cfc2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BornOtomasyon.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BornOtomasyon.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
